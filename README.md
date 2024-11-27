@@ -1,4 +1,4 @@
-# vue-sample
+# movie.github.io
 
 ## Project setup
 ```
